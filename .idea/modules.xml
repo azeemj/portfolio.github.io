@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../chatBotNode/.idea/chatBotNode.iml" filepath="$PROJECT_DIR$/../chatBotNode/.idea/chatBotNode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data-engineering/.idea/data-engineering.iml" filepath="$PROJECT_DIR$/../data-engineering/.idea/data-engineering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../html5up-massively/.idea/html5up-massively.iml" filepath="$PROJECT_DIR$/../html5up-massively/.idea/html5up-massively.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../portfolioprojects/.idea/portfolioprojects.iml" filepath="$PROJECT_DIR$/../portfolioprojects/.idea/portfolioprojects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/protfoiliohtml.iml" filepath="$PROJECT_DIR$/.idea/protfoiliohtml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" filepath="$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled/.idea/untitled.iml" filepath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>
